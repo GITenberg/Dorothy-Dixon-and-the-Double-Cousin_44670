@@ -11,6 +11,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42863
     wikipedia: http://www.gutenberg.org/ebooks/author/37938
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44670#Dorothy-Dixon-and-the-Double-Cousin
 gutenberg_issued: '2014-01-15'
 gutenberg_type: Text
 identifiers:
